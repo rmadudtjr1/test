@@ -6,5 +6,6 @@ public class Test {
 		System.out.println("�븞�뀞");
 		System.out.println("test");
 		System.out.println("dkdkd");
+		System.out.println("ㅇㅇㅇㅇ");
 	}
 }
